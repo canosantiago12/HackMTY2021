@@ -1,7 +1,8 @@
 import './App.css';
 import React from 'react';
-import Home from './views/Home';
-import Welcome from './views/Welcome';
+import Login from './views/Auth/Login';
+import Welcome from './views/Auth/Welcome';
+import Register from './views/Auth/Register';
 
 function App() {
   return (

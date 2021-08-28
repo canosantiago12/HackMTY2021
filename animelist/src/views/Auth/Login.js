@@ -1,7 +1,6 @@
-import '../App.css'
-import Background from '../assets/img/mha_poster.jpg'
+import '../../App.css'
 
-const Home = () => {
+const Login = () => {
     return(
         <div className="container h-100">
             <div className="d-flex justify-content-center h-100">
@@ -46,4 +45,4 @@ const Home = () => {
     );
 }
 
-export default Home;
+export default Login;
